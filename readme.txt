@@ -2,4 +2,3 @@ Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage(no example).
 Git tracks changes vi commond can get the contents.
-My stupid boss still prefers SVN.checkout commit.
